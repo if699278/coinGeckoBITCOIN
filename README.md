@@ -24,8 +24,3 @@ This main code is set up to work with one or multiple crypto_currencies, you can
 Ex: One crypto ticker=['Bitcoin']
 Ex: Two ticker=['Bitcoin','Dogecoin']
 
-
-
-Explaining Utils.py:
-Utils.py have the following functions: 
-    1.cur_price(ticker,api_key,currency)
