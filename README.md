@@ -8,7 +8,9 @@ IMPORTANT: This tool is based on the Free API Account, assumptions on FREE accou
 
 USAGE:
 1.Generate your API key from you coinGecko account: https://www.coingecko.com/en/developers/dashboard
+
 2.Go to main.py and define the following variables: 
+
 *ticker: The crypto name
 *start_date: the starting historical download date, use the example syntaxis Ex: (start_dt = date(2024, 10, 1))
 *end_date: the end or last date that you will be able to retreive. 
@@ -16,7 +18,8 @@ USAGE:
 *api_key: Use the api key that you generated on step 1
 *usr: You can enter the text of the user that is uploading data (
 The ideal for this variable is that it is parameterized)
-3.Run the script
+
+3.Run the script :)
 
 
 SCALABILITY: 
