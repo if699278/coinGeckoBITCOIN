@@ -7,6 +7,7 @@ Official Documentation on the coingecko API can be found on https://docs.coingec
 IMPORTANT: This tool is based on the Free API Account, assumptions on FREE account were made on the script. If you plan to upgrade your license, you could improve the process/script.
 
 USAGE:
+
 1.Generate your API key from you coinGecko account: https://www.coingecko.com/en/developers/dashboard
 
 2.Go to main.py and define the following variables: 
