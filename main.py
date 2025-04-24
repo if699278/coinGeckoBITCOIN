@@ -6,7 +6,7 @@ from datetime import datetime, date
 #Variables
 ticker=['Bitcoin']
 currency='usd'
-api_key='CG-SiWix6uuyKHPV8sdWZnpHNGZ'
+api_key=''
 usr='TEST'
 start_dt = date(2024, 10, 1)
 end_dt = date(2024, 12, 31)
